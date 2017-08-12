@@ -1,0 +1,10 @@
+IDComponente,IDTipo,Function,Severity
+C10,Capacitor,Generación de reloj,III
+C11,Capacitor,Generación de reloj,III
+X1,Cristal,Generación de reloj,III
+R16,Resistor,Generación de reloj,III
+R17,Resistor,Generación de reloj,III
+U4,Integrado,Generación de reloj,III
+U5,Integrado,Generación de reloj,III
+U6,Integrado,Generación de reloj,III
+U8,Integrado,Generación de reloj,III
